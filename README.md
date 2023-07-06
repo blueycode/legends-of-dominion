@@ -42,8 +42,8 @@ This repository makes part of Bluey Code's project. Its entire development proce
 - [x] Project setup *(cleanup, metadata, favicon)* 
 - [x] Develop banner
 - [x] Develop dungeons section
-- [ ] Develop jobs section
-- [ ] Deploy on Vercel
+- [x] Develop jobs section
+- [x] Deploy on Vercel
 
 <!-- LIVE DEMO -->
 ### Live Demo
