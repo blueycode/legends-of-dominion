@@ -39,7 +39,7 @@ This repository makes part of Bluey Code's project. Its entire development proce
 
 ### To-do List
 
-- [ ] Project setup *(cleanup, metadata, favicon)* 
+- [x] Project setup *(cleanup, metadata, favicon)* 
 - [ ] Develop banner
 - [ ] Develop dungeons section
 - [ ] Develop jobs section
