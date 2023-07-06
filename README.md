@@ -40,7 +40,7 @@ This repository makes part of Bluey Code's project. Its entire development proce
 ### To-do List
 
 - [x] Project setup *(cleanup, metadata, favicon)* 
-- [ ] Develop banner
+- [x] Develop banner
 - [ ] Develop dungeons section
 - [ ] Develop jobs section
 - [ ] Deploy on Vercel
